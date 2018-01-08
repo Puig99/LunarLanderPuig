@@ -1,0 +1,28 @@
+body,html{width:100%;height:100%;padding:0;margin:0;}
+
+body{ background-image: url("../img/fondoLluna.jpg");
+background-size: 100% 100%;
+color:white;
+font-size: 100%;
+}
+
+.a{width:100%;overflow:hidden;position:fixed;top:0px}
+.b{}
+.c{;position:fixed;top:0px;bottom:0px;left:0px;right:0px;display:none;z-index:1}
+.d{;position:relative;bottom:0px;height:10%;width:100%;}
+#nave{position:relative;top:10%;height:20%; width:33%;margin: auto;}
+#nave img{height:120%;}
+#cpanel{} 	
+#hidem,#showm{float:right}
+
+button{ background-color: #141634;
+border: none;}
+
+ul{ list-style-type: none;
+}
+
+#menu{position:absolute;
+	right:0px;
+}
+#left{ width:10%;}
+
