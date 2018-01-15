@@ -76,9 +76,11 @@ function moverNave(){
 		stop();
 		if(v>=5){
 		document.getElementById("naveOff").src="img/explosion2.gif";
+		window.alert("HAS PERDIDO!!!!!");
 		}
 		else{ 
 		document.getElementById("naveOff").src="img/ganaste1.gif";
+		window.alert("HAS PERDIDO!!!!!");
 		}
 
 	}
