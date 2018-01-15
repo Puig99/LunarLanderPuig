@@ -13,7 +13,7 @@ S'ha afegit moviment a la nau, de manera que es pugui moure adalt i abaix només
 La imatge canvia quan feim clic a la barra espaiadora per propulsar la nau, fent que aparegui la imatge de la nau amb el foc del propulsor.
 Els botons de pausa i play ara son funcionals, i aturen i reanuden el joc respectivament.
 Els indicadors situats a la esquerra varien els seus valors constantment, de manera que el jugador es troba informat.
-Quan la nau aterra es mostra una imatge depenent de la velocitat a la que s'ha aterrat, si es major a 5 Km/h es la nau explota, si es inferior es mostra una imatge que indica que has guanyat, les dues imatges venen acompanyades d'una alerta que es mostra al navegador indicant si has guanyat o perdut.
+Quan la nau aterra es mostra una imatge depenent de la velocitat a la que s'ha aterrat, si es major a 5 m/s es la nau explota, si es inferior es mostra una imatge que indica que has guanyat, les dues imatges venen acompanyades d'una alerta que es mostra al navegador indicant si has guanyat o perdut.
 
 La versió de movil ara té un menú despleglable, el qual conté les mateixes opcions que el de la versió normal, pero que en obrir-se atura el joc.
 
