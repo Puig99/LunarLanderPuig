@@ -14,4 +14,6 @@ Els indicadors situats a la esquerra varien els seus valors constantment, de man
 Quan la nau aterra es mostra una imatge depenent de la velocitat a la que s'ha aterrat, si es major a 5 Km/h es la nau explota, si es inferior es mostra una imatge que indica que has guanyat, les dues imatges venen acompanyades d'una alerta que es mostra al navegador indicant si has guanyat o perdut.
 La versió de movil ara té un menú despleglable, el qual conté les mateixes opcions que el de la versió normal, pero que en obrir-se atura el joc.
 
+Pots probar el joc amb aquest link https://rawgit.com/Puig99/LunarLanderPuig/master/index.html
+
 
