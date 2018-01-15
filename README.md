@@ -1,4 +1,4 @@
-**Lunar Lander**
+# Lunar Lander
 El joc ha estat desenvolupat utilitzant html, css i javaScript.
 La versió amb html i css només incluia les imatges i l'estil de la pàgina del joc.
 Aquesta versió comptava amb tres capes, les quals es dividien en indicadors dels parametres, espai per a la nau i opcions, situats d'esquerra a dreta i ocupant un 33% de la pantalla cada un.A més, es va afegir una capa en horitzontal, per que la nau hi aterrés, que ocupava un 20% de la pantalla.
